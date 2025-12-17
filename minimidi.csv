@@ -1,0 +1,7 @@
+"ID";"指定子";"フットプリント";"数量";"名称";"供給業者、参考資料";
+1;"SW28,SW33,SW24,SW13,SW32,SW12,SW31,SW19,SW20,SW30,SW23,SW16,SW17,SW6,SW21,SW27,SW10,SW3,SW34,SW14,SW11,SW36,SW18,SW1,SW8,SW9,SW15,SW7,SW22,SW5,SW37,SW4,SW2,SW29";"SW_Cherry_MX_1.00u_PCB";34;"SW_Push";;;
+2;"D21,D3,D22,D29,D35,D5,D25,D15,D17,D30,D24,D4,D34,D26,D19,D6,D36,D10,D28,D2,D12,D20,D31,D23,D18,D33,D32,D11,D13,D9,D14,D27,D16,D8,D1,D7";"D_SOD-523";36;"1N4148WT";;;
+3;"SW25,SW26";"RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_MountingHoles";2;"RotaryEncoder_Switch_MP";;;
+4;"J1";"PinHeader_1x08_P2.54mm_Vertical";1;"ST7735R";;;
+5;"SW35";"SW_Cherry_MX_1.00u_PCB";1;"RESET";;;
+6;"A1";"RaspberryPi_Pico_Common_THT";1;"Orpheus_Pico";;;
