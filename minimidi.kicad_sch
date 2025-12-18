@@ -2393,6 +2393,17 @@
 		)
 		(uuid "d6710378-e96c-45be-931e-d011a1e82eeb")
 	)
+	(text "LCD"
+		(exclude_from_sim no)
+		(at 176.53 138.938 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 0 0 255 1)
+			)
+		)
+		(uuid "da55410b-3448-41f1-8c02-001d4b2a3017")
+	)
 	(junction
 		(at 176.53 82.55)
 		(diameter 0)
@@ -2734,6 +2745,30 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fe4b5513-0858-4693-84a1-44604aa87527")
+	)
+	(no_connect
+		(at 33.02 41.91)
+		(uuid "331a5520-8c43-48e2-8156-204a6b9fa31e")
+	)
+	(no_connect
+		(at 50.8 24.13)
+		(uuid "363f0bd7-18e4-45ed-aca2-b0a726f5e72a")
+	)
+	(no_connect
+		(at 78.74 69.85)
+		(uuid "5f53a045-be14-466d-a452-3749810794fa")
+	)
+	(no_connect
+		(at 78.74 64.77)
+		(uuid "7aeb0929-825d-4730-901d-358ebb7cff63")
+	)
+	(no_connect
+		(at 78.74 85.09)
+		(uuid "95ffbed1-2f62-428d-ae2d-f021a3a52a9c")
+	)
+	(no_connect
+		(at 55.88 24.13)
+		(uuid "a67c460a-b8e6-4909-afee-9a3ef243b8b9")
 	)
 	(wire
 		(pts
